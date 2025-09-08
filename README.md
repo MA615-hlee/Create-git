@@ -1,1 +1,2 @@
-start my git
+Hyungu Lee
+BU ID: U00125976
